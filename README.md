@@ -80,7 +80,7 @@ content rather than relying only on its filename.
 
 [Download: brickemu_libretro.dll +info](https://github.com/user-attachments/files/30235393/brickemu_libretro.zip)
 
-[Assts](https://github.com/retronoobi/BrickEmu/tree/main/assets)
+[Assets](https://github.com/retronoobi/BrickEmu/tree/main/assets)
 
 ## Source package contents
 
