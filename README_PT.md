@@ -84,6 +84,8 @@ jogo pelo conteúdo da ROM, não apenas pelo nome do arquivo.
 
 [Download: brickemu_libretro.dll +info](https://github.com/user-attachments/files/30235393/brickemu_libretro.zip)
 
+[Assets](https://github.com/retronoobi/BrickEmu/tree/main/assets)
+
 ## Conteúdo do pacote-fonte
 
 - Implementações nativas dos processadores HT943, EM73000, SPL0X e KS56CX2X.
