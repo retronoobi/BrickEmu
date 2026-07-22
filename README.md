@@ -23,8 +23,6 @@ nine games. The LCD segment masks and sound ROM data required by the hardware
 are embedded in generated core headers. SVG files, Python, ImageMagick, and the
 complete BrickEmuPy project are not required to compile or run this package.
 
-Game ROMs are not included.
-
 ## Automatic power-off
 
 The core option `Prevent automatic power-off` is enabled by default. It
