@@ -24,8 +24,6 @@ hardware estão incorporadas nos cabeçalhos gerados do core. SVGs, Python,
 ImageMagick e o projeto BrickEmuPy completo não são necessários para compilar
 ou executar este pacote.
 
-ROMs dos jogos não estão incluídas.
-
 ## Desligamento automático
 
 Por padrão, a opção de core `Prevent automatic power-off` fica habilitada.
